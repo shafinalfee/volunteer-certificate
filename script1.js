@@ -21,7 +21,7 @@ function drawImage(){
     ctx.lineTo(655, 260);
     ctx.stroke();
     
-    ctx.font = "30px Adorable regular"
+    ctx.font = "30px Adorable"
     ctx.fillStyle='#FFFFFF'
     ctx.textAlign = "center"; 
     ctx.fillText(nameInput.value, 655, 260)
