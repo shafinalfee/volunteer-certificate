@@ -28,7 +28,7 @@ function drawImage(){
     ctx.moveTo(410, 330);
     ctx.lineTo(410, 330);
     ctx.stroke();
-    ctx.font = "22px Adorable regular"
+    ctx.font = "22px Adorable"
     ctx.fillText(insInput.value, 410, 325)
     
 }
